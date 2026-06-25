@@ -5,7 +5,7 @@ Encrypted machine bootstrapping scripts.
 ## Usage
 
 ```bash
-curl -sL https://inits.or-ricon.com/<script> | sh
+curl -sL https://inits.ricon.family/<script> | sh
 ```
 
 You'll be prompted for a password to decrypt and run the script.
@@ -18,4 +18,4 @@ You'll be prompted for a password to decrypt and run the script.
 
 ## Available Scripts
 
-See [inits.or-ricon.com](https://inits.or-ricon.com) for the list of available scripts.
+See [inits.ricon.family](https://inits.ricon.family) for the list of available scripts.
